@@ -26,3 +26,5 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+development/
